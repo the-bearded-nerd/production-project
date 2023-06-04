@@ -1,4 +1,4 @@
-import { useState, useMemo, FC } from "react";
+import React, { useState, useMemo, FC } from "react";
 
 import { Theme } from "./ThemeContext";
 import { LOCAL_STORAGE_THEME_KEY, ThemeContext } from "./ThemeContext";
